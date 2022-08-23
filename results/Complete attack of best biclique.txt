@@ -1,0 +1,651 @@
+Delta Differentials =
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+[0a,aa,0a,aa|aa,aa,a0,aa|aa,00,00,aa|aa,aa,aa,aa]
+[0a,aa,0a,aa|aa,aa,a0,aa|aa,00,00,aa|aa,aa,aa,aa]
+[0a,aa,0a,aa|aa,aa,a0,aa|aa,00,00,aa|aa,aa,aa,aa]
+[aa,a0,0a,00|00,00,00,aa|00,00,00,a0|00,00,00,a0]
+[00,a0,0a,00|00,00,00,aa|00,00,00,00|00,00,00,a0]
+[00,a0,0a,00|00,00,00,aa|00,00,00,00|00,00,00,a0]
+[00,00,00,00|00,00,00,a0|00,00,00,00|00,00,00,00]
+[00,00,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+[00,00,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+[00,00,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+[00,00,00,a0|00,00,00,00|00,00,00,00|00,00,00,00]
+[00,00,00,a0|00,00,00,00|00,00,00,00|00,00,00,00]
+[00,00,00,a0|00,00,00,00|00,00,00,00|00,00,00,00]
+
+Nabla Differentials =
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,0b|bb,bb,bb,bb|b0,bb,bb,bb|bb,bb,bb,bb]
+[bb,bb,bb,0b|bb,bb,bb,bb|b0,bb,bb,bb|bb,0b,b0,bb]
+[bb,bb,bb,0b|bb,bb,bb,bb|b0,bb,bb,bb|bb,0b,b0,bb]
+[00,00,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+
+See independence of internal states (a is for Delta, b is for Nabla, 1 is for both and 0 is none) =
+#0 P	=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#1 AK1	=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#2 S1		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#3 L1		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#4 AK2	=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#5 S2		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#6 L2		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#7 AK3	=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#8 S3		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#9 L3		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#10 AK4	=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#11 S4		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#12 L4		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#13 AK5	=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#14 S5		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#15 L5		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#16 AK6	=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#17 S6		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#18 L6		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#19 AK7	=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#20 S7		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#21 L7		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#22 AK8	=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#23 S8		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#24 L8		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#25 AK9	=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#26 S9		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#27 L9		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#28 AK10	=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#29 S10		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#30 L10		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#31 AK11	=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#32 S11		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#33 L11		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#34 AK12	=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#35 S12		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#36 L12		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#37 AK13	=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#38 S13		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#39 L13		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#40 AK14	=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#41 S14		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#42 L14		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#43 AK15	=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#44 S15		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#45 L15		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#46 AK16	=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#47 S16		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#48 L16		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#49 AK17	=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#50 S17		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#51 L17		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#52 AK18	=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#53 S18		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#54 L18		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#55 AK19	=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#56 S19		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#57 L19		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#58 AK20	=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#59 S20		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#60 L20		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#61 AK21	=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#62 S21		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#63 L21		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#64 AK22	=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#65 S22		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#66 L22		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#67 AK23	=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#68 S23		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#69 L23		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#70 AK24	=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#71 S24		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#72 L24		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#73 AK25	=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#74 S25		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#75 L25		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#76 AK26	=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#77 S26		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#78 L26		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#79 AK27	=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#80 S27		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#81 L27		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#82 AK28	=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#83 S28		=[11,11,11,11|11,11,11,11|11,11,11,11|11,11,11,11]
+#84 L28		=[b1,11,b1,11|11,11,1b,11|11,bb,bb,11|11,11,11,11]
+#85 AK29	=[b1,11,b1,11|11,11,1b,11|11,bb,bb,11|11,11,11,11]
+#86 S29		=[b1,11,b1,11|11,11,1b,11|11,bb,bb,11|11,11,11,11]
+#87 L29		=[11,1b,b1,bb|bb,bb,bb,11|bb,bb,bb,1b|bb,bb,bb,1b]
+#88 AK30	=[bb,1b,b1,bb|bb,bb,bb,11|bb,bb,bb,bb|bb,bb,bb,1b]
+#89 S30		=[bb,1b,b1,bb|bb,bb,bb,11|bb,bb,bb,bb|bb,bb,bb,1b]
+#90 L30		=[bb,bb,bb,bb|bb,bb,bb,1b|bb,bb,bb,bb|bb,bb,bb,bb]
+#91 AK31	=[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+#92 S31		=[bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb|bb,bb,bb,bb]
+#93 L31		=[bb,bb,bb,0b|bb,bb,bb,bb|b0,bb,bb,bb|bb,bb,bb,bb]
+#94 AK32	=[bb,bb,bb,ab|bb,bb,bb,bb|b0,bb,bb,bb|bb,0b,b0,bb]
+#95 S32		=[bb,bb,bb,ab|bb,bb,bb,bb|b0,bb,bb,bb|bb,0b,b0,bb]
+#96 AK33 = C	=[00,00,00,a0|00,00,00,00|00,00,00,00|00,00,00,00]
+Active Nibbles of the Delta key
+K0 = [00,0a,a0,aa|0a,0a,a0,aa|0a,0a,a0,00|0a,0a,a0,00]
+K1 = [aa,0a,a0,aa|00,00,aa,a0|0a,aa,a0,00|0a,0a,aa,aa]
+K2 = [aa,0a,aa,00|0a,aa,aa,0a|0a,a0,00,aa|0a,a0,a0,a0]
+K3 = [0a,aa,aa,aa|0a,aa,a0,aa|0a,aa,a0,aa|00,0a,a0,aa]
+K4 = [aa,a0,aa,a0|0a,aa,a0,aa|aa,0a,a0,0a|0a,a0,a0,0a]
+K5 = [aa,aa,a0,aa|0a,aa,a0,aa|0a,00,a0,aa|0a,0a,a0,aa]
+K6 = [0a,a0,aa,aa|0a,aa,a0,aa|aa,0a,a0,a0|0a,a0,00,a0]
+K7 = [aa,aa,a0,aa|0a,aa,a0,aa|00,00,a0,aa|00,0a,a0,aa]
+K8 = [0a,a0,a0,aa|0a,00,00,aa|0a,0a,a0,aa|0a,0a,a0,00]
+K9 = [aa,0a,aa,aa|0a,aa,a0,a0|00,0a,a0,aa|0a,a0,00,a0]
+K10 = [00,0a,a0,aa|0a,a0,00,a0|aa,00,a0,aa|0a,00,a0,a0]
+K11 = [aa,aa,a0,aa|0a,0a,a0,aa|aa,0a,a0,aa|00,0a,a0,aa]
+K12 = [aa,00,a0,00|00,0a,a0,aa|aa,0a,a0,a0|00,00,a0,a0]
+K13 = [0a,0a,a0,aa|0a,0a,a0,00|0a,0a,a0,a0|00,0a,a0,a0]
+K14 = [00,00,00,aa|0a,00,a0,00|0a,00,00,a0|0a,0a,a0,00]
+K15 = [aa,0a,a0,aa|0a,00,00,a0|aa,00,00,00|0a,0a,a0,00]
+K16 = [00,0a,a0,aa|0a,00,00,00|aa,00,00,00|00,0a,a0,00]
+K17 = [aa,aa,a0,a0|00,0a,a0,aa|00,0a,a0,a0|0a,00,00,aa]
+K18 = [aa,0a,a0,aa|0a,0a,a0,aa|00,0a,a0,a0|00,0a,a0,a0]
+K19 = [aa,00,00,aa|0a,00,00,00|0a,0a,a0,00|00,0a,a0,a0]
+K20 = [aa,0a,a0,aa|0a,00,00,00|aa,00,00,00|0a,0a,a0,00]
+K21 = [00,0a,a0,a0|0a,0a,a0,00|0a,00,00,00|0a,00,00,a0]
+K22 = [aa,0a,a0,aa|0a,0a,a0,a0|00,00,00,a0|00,0a,a0,a0]
+K23 = [aa,00,00,00|00,0a,a0,00|aa,00,00,00|00,00,00,00]
+K24 = [aa,0a,a0,a0|00,00,00,a0|aa,00,00,00|00,00,00,a0]
+K25 = [00,00,00,aa|00,0a,a0,00|aa,00,00,a0|00,0a,a0,00]
+K26 = [aa,00,00,a0|00,0a,a0,00|aa,00,00,a0|00,00,00,a0]
+K27 = [00,0a,a0,00|00,00,00,00|aa,00,00,a0|00,00,00,00]
+K28 = [00,00,00,a0|00,00,00,a0|00,00,00,a0|00,00,00,a0]
+K29 = [aa,00,00,00|00,00,00,a0|00,00,00,a0|00,00,00,a0]
+K30 = [00,00,00,00|00,00,00,a0|00,00,00,00|00,00,00,00]
+K31 = [00,00,00,a0|00,00,00,00|00,00,00,00|00,00,00,00]
+K32 = [00,00,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+Active Nibbles of the Nabla key
+K0 = [0a,0a,00,00|aa,0a,a0,a0|aa,00,00,a0|aa,0a,00,a0]
+K1 = [aa,0a,00,00|00,0a,a0,00|0a,00,00,a0|00,0a,00,a0]
+K2 = [aa,00,00,a0|aa,0a,aa,a0|00,0a,00,a0|00,00,0a,a0]
+K3 = [aa,00,00,a0|aa,0a,a0,00|00,00,00,a0|00,00,0a,a0]
+K4 = [aa,00,00,00|aa,0a,0a,aa|aa,0a,a0,00|aa,0a,00,00]
+K5 = [00,0a,a0,a0|aa,0a,aa,a0|aa,0a,a0,a0|aa,0a,00,00]
+K6 = [aa,0a,00,00|00,0a,aa,a0|00,00,00,a0|aa,00,00,a0]
+K7 = [aa,0a,00,00|aa,0a,aa,a0|00,00,00,a0|00,00,0a,a0]
+K8 = [aa,00,00,a0|aa,0a,00,00|aa,00,00,a0|00,00,00,a0]
+K9 = [00,0a,00,a0|aa,0a,aa,a0|aa,0a,00,a0|00,0a,00,00]
+K10 = [aa,0a,00,00|00,00,0a,a0|aa,00,00,00|00,00,0a,a0]
+K11 = [00,00,00,00|aa,0a,0a,a0|00,0a,00,00|00,00,0a,a0]
+K12 = [00,0a,00,00|00,0a,a0,00|aa,00,00,00|00,0a,0a,a0]
+K13 = [aa,00,00,00|00,0a,0a,a0|aa,00,00,00|00,0a,0a,a0]
+K14 = [00,0a,00,00|aa,00,00,00|00,00,00,00|00,0a,0a,a0]
+K15 = [00,00,00,00|00,0a,00,00|00,0a,00,00|00,0a,00,00]
+K16 = [00,0a,00,00|00,00,0a,a0|00,0a,00,00|00,0a,00,00]
+K17 = [00,0a,00,00|00,00,00,00|00,0a,00,00|00,00,00,00]
+K18 = [00,00,00,00|00,0a,00,00|00,00,00,00|00,00,00,00]
+K19 = [00,00,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+K20 = [00,00,00,00|aa,00,00,00|00,00,0a,a0|00,aa,00,00]
+K21 = [a0,00,0a,a0|00,00,0a,a0|a0,aa,0a,a0|a0,aa,00,0a]
+K22 = [00,aa,0a,00|00,aa,0a,a0|a0,aa,0a,0a|a0,aa,aa,0a]
+K23 = [a0,a0,00,0a|a0,aa,0a,aa|a0,aa,aa,0a|aa,a0,aa,00]
+K24 = [a0,aa,aa,0a|a0,aa,aa,0a|aa,aa,aa,0a|aa,a0,aa,aa]
+K25 = [aa,a0,aa,00|aa,aa,aa,aa|aa,aa,aa,aa|00,aa,a0,aa]
+K26 = [0a,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+K27 = [a0,0a,aa,aa|aa,aa,aa,aa|aa,0a,a0,aa|aa,a0,aa,aa]
+K28 = [aa,0a,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+K29 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|0a,aa,0a,aa]
+K30 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,a0]
+K31 = [0a,aa,aa,0a|aa,aa,aa,aa|a0,aa,a0,00|aa,aa,aa,aa]
+K32 = [aa,aa,aa,0a|aa,aa,aa,aa|a0,aa,aa,aa|aa,0a,a0,aa]
+Nibbles that influence variable v = 
+#0 = [00,00,00,00|00,00,00,00|00,00,00,00|00,00,00,00]
+#1 = [0a,0a,00,00|aa,0a,a0,a0|aa,00,00,a0|aa,0a,00,a0]
+#2 = [0a,0a,00,00|aa,0a,a0,a0|aa,00,00,a0|aa,0a,00,a0]
+#3 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#4 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#5 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#6 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#7 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#8 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#9 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#10 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#11 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#12 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#13 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#14 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#15 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#16 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#17 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#18 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#19 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#20 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#21 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#22 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#23 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#24 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#25 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#26 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#27 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#28 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#29 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#30 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#31 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#32 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#33 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#34 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#35 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#36 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#37 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#38 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#39 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#40 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#41 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#42 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#43 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#44 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#45 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#46 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#47 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#48 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#49 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#50 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#51 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#52 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#53 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#54 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#55 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#56 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#57 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#58 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#59 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#60 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#61 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#62 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#63 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#64 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#65 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#66 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#67 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#68 = [aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa|aa,aa,aa,aa]
+#69 = [aa,aa,a0,aa|00,00,aa,aa|0a,a0,aa,aa|aa,0a,00,aa]
+#70 = [aa,aa,a0,aa|00,00,aa,aa|0a,a0,aa,aa|aa,0a,00,aa]
+#71 = [aa,aa,a0,aa|00,00,aa,aa|0a,a0,aa,aa|aa,0a,00,aa]
+#72 = [a0,00,00,00|00,00,00,00|00,00,a0,0a|0a,00,00,a0]
+#73 = [a0,00,00,00|00,00,00,00|00,00,a0,0a|0a,00,00,a0]
+#74 = [a0,00,00,00|00,00,00,00|00,00,a0,0a|0a,00,00,a0]
+#75 = [00,00,00,00|00,00,00,00|00,00,00,00|00,00,00,0a]
+#76 = [00,00,00,00|00,00,00,00|00,00,00,00|00,00,00,0a]
+#77 = [00,00,00,00|00,00,00,00|00,00,00,00|00,00,00,0a]
+#78 = [a0,00,00,00|00,00,00,00|00,00,a0,0a|0a,00,00,a0]
+#79 = [a0,00,00,00|00,00,00,00|00,00,a0,0a|0a,00,00,a0]
+#80 = [a0,00,00,00|00,00,00,00|00,00,a0,0a|0a,00,00,a0]
+#81 = [aa,aa,a0,aa|00,00,aa,aa|0a,a0,aa,aa|aa,0a,00,aa]
+#82 = [aa,aa,a0,aa|00,00,aa,aa|0a,a0,aa,aa|aa,0a,00,aa]
+#83 = [aa,aa,a0,aa|00,00,aa,aa|0a,a0,aa,aa|aa,0a,00,aa]
+#84 = [0a,aa,0a,aa|aa,aa,a0,aa|aa,00,00,aa|aa,aa,aa,aa]
+#85 = [0a,aa,0a,aa|aa,aa,a0,aa|aa,00,00,aa|aa,aa,aa,aa]
+#86 = [0a,aa,0a,aa|aa,aa,a0,aa|aa,00,00,aa|aa,aa,aa,aa]
+#87 = [aa,a0,0a,00|00,00,00,aa|00,00,00,a0|00,00,00,a0]
+#88 = [00,a0,0a,00|00,00,00,aa|00,00,00,00|00,00,00,a0]
+#89 = [00,a0,0a,00|00,00,00,aa|00,00,00,00|00,00,00,a0]
+#90 = [00,00,00,00|00,00,00,a0|00,00,00,00|00,00,00,00]
+
+See independence of subkeys (a is for Delta, b is for Nabla, 1 is for both and 0 is none) =
+K0  =[0b,01,a0,aa|b1,01,10,1a|b1,0a,a0,b0|b1,01,a0,b0]
+K1  =[11,01,a0,aa|00,0b,1a,a0|01,aa,a0,b0|0a,01,aa,1a]
+K2  =[11,0a,aa,b0|b1,a1,11,ba|0a,ab,00,1a|0a,a0,ab,10]
+K3  =[b1,aa,aa,1a|b1,a1,10,aa|0a,aa,a0,1a|00,0a,ab,1a]
+K4  =[11,a0,aa,a0|b1,a1,ab,11|11,01,10,0a|b1,ab,a0,0a]
+K5  =[aa,a1,10,1a|b1,a1,1b,1a|b1,0b,10,1a|b1,01,a0,aa]
+K6  =[b1,ab,aa,aa|0a,a1,1b,1a|aa,0a,a0,10|b1,a0,00,10]
+K7  =[11,a1,a0,aa|b1,a1,1b,1a|00,00,a0,1a|00,0a,ab,1a]
+K8  =[b1,a0,a0,1a|b1,0b,00,aa|b1,0a,a0,1a|0a,0a,a0,b0]
+K9  =[aa,01,aa,1a|b1,a1,1b,10|bb,01,a0,1a|0a,ab,00,a0]
+K10 =[bb,01,a0,aa|0a,a0,0b,10|11,00,a0,aa|0a,00,ab,10]
+K11 =[aa,aa,a0,aa|b1,01,ab,1a|aa,01,a0,aa|00,0a,ab,1a]
+K12 =[aa,0b,a0,00|00,01,10,aa|11,0a,a0,a0|00,0b,ab,10]
+K13 =[b1,0a,a0,aa|0a,01,ab,b0|b1,0a,a0,a0|00,01,ab,10]
+K14 =[00,0b,00,aa|b1,00,a0,00|0a,00,00,a0|0a,01,ab,b0]
+K15 =[aa,0a,a0,aa|0a,0b,00,a0|aa,0b,00,00|0a,01,a0,00]
+K16 =[00,01,a0,aa|0a,00,0b,b0|aa,0b,00,00|00,01,a0,00]
+K17 =[aa,a1,a0,a0|00,0a,a0,aa|00,01,a0,a0|0a,00,00,aa]
+K18 =[aa,0a,a0,aa|0a,01,a0,aa|00,0a,a0,a0|00,0a,a0,a0]
+K19 =[aa,00,00,aa|0a,00,00,00|0a,0a,a0,00|00,0a,a0,a0]
+K20 =[aa,0a,a0,aa|b1,00,00,00|aa,00,0b,b0|0a,b1,a0,00]
+K21 =[b0,0a,ab,10|0a,0a,ab,b0|ba,bb,0b,b0|ba,bb,00,ab]
+K22 =[aa,b1,ab,aa|0a,b1,ab,10|b0,bb,0b,ab|b0,b1,1b,ab]
+K23 =[1a,b0,00,0b|b0,b1,ab,bb|1a,bb,bb,0b|bb,b0,bb,00]
+K24 =[1a,b1,1b,ab|b0,bb,bb,ab|11,bb,bb,0b|bb,b0,bb,1b]
+K25 =[bb,b0,bb,aa|bb,b1,1b,bb|11,bb,bb,1b|00,b1,10,bb]
+K26 =[a1,bb,bb,1b|bb,b1,1b,bb|11,bb,bb,1b|bb,bb,bb,1b]
+K27 =[b0,01,1b,bb|bb,bb,bb,bb|11,0b,b0,1b|bb,b0,bb,bb]
+K28 =[bb,0b,bb,1b|bb,bb,bb,1b|bb,bb,bb,1b|bb,bb,bb,1b]
+K29 =[11,bb,bb,bb|bb,bb,bb,1b|bb,bb,bb,1b|0b,bb,0b,1b]
+K30 =[bb,bb,bb,bb|bb,bb,bb,1b|bb,bb,bb,bb|bb,bb,bb,b0]
+K31 =[0b,bb,bb,ab|bb,bb,bb,bb|b0,bb,b0,00|bb,bb,bb,bb]
+K32 =[bb,bb,bb,0b|bb,bb,bb,bb|b0,bb,bb,bb|bb,0b,b0,bb]
+Candidates for the Base Key: 
+K[0] = {
+ K0[ 1] from nibble 11 of nabla.
+ K0[22] from nibble 11 of nabla.
+ K0[30] from nibble 11 of nabla.
+ K0[ 4] from nibble  6 of delta.
+ K0[20] from nibble  6 of delta.
+ K0[28] from nibble  6 of delta.
+}
+K[1] = {
+ K1[11] from nibble 11 of nabla.
+ K1[22] from nibble 11 of nabla.
+ K1[14] from nibble  6 of delta.
+ K1[20] from nibble  6 of delta.
+ K1[25] from nibble  6 of delta.
+ K1[31] from nibble  6 of delta.
+}
+K[2] = {
+ K2[ 6] from nibble 11 of nabla.
+ K2[19] from nibble 11 of nabla.
+ K2[15] from nibble  6 of delta.
+ K2[17] from nibble  6 of delta.
+ K2[25] from nibble  6 of delta.
+ K2[28] from nibble  6 of delta.
+}
+K[4] = {
+ K4[27] from nibble 11 of nabla.
+ K4[ 6] from nibble  6 of delta.
+ K4[12] from nibble  6 of delta.
+ K4[23] from nibble  6 of delta.
+ K4[28] from nibble  6 of delta.
+ K4[31] from nibble  6 of delta.
+}
+K[6] = {
+ K6[ 3] from nibble 11 of nabla.
+ K6[ 6] from nibble  6 of delta.
+ K6[15] from nibble  6 of delta.
+ K6[17] from nibble  6 of delta.
+}
+K[8] = {
+ K8[11] from nibble 11 of nabla.
+ K8[30] from nibble 11 of nabla.
+ K8[ 4] from nibble  6 of delta.
+ K8[14] from nibble  6 of delta.
+ K8[25] from nibble  6 of delta.
+ K8[28] from nibble  6 of delta.
+}
+K[9] = {
+ K9[27] from nibble 11 of nabla.
+ K9[ 1] from nibble  6 of delta.
+ K9[ 4] from nibble  6 of delta.
+ K9[20] from nibble  6 of delta.
+ K9[25] from nibble  6 of delta.
+ K9[30] from nibble  6 of delta.
+}
+K[12] = {
+K12[ 3] from nibble 11 of nabla.
+K12[27] from nibble 11 of nabla.
+K12[ 4] from nibble  6 of delta.
+K12[14] from nibble  6 of delta.
+K12[20] from nibble  6 of delta.
+K12[22] from nibble  6 of delta.
+K12[28] from nibble  6 of delta.
+}
+K[14] = {
+K14[ 3] from nibble 11 of nabla.
+K14[ 6] from nibble  6 of delta.
+K14[12] from nibble  6 of delta.
+K14[17] from nibble  6 of delta.
+K14[22] from nibble  6 of delta.
+K14[25] from nibble  6 of delta.
+}
+K[15] = {
+K15[11] from nibble 11 of nabla.
+K15[19] from nibble 11 of nabla.
+K15[ 4] from nibble  6 of delta.
+K15[ 9] from nibble  6 of delta.
+K15[14] from nibble  6 of delta.
+K15[17] from nibble  6 of delta.
+K15[25] from nibble  6 of delta.
+}
+K[16] = {
+K16[19] from nibble 11 of nabla.
+K16[ 9] from nibble  6 of delta.
+}
+K[21] = {
+K21[ 0] from nibble 11 of nabla.
+K21[16] from nibble 11 of nabla.
+K21[ 9] from nibble  6 of delta.
+K21[17] from nibble  6 of delta.
+K21[25] from nibble  6 of delta.
+K21[30] from nibble  6 of delta.
+}
+K[22] = {
+K22[ 5] from nibble 11 of nabla.
+K22[16] from nibble 11 of nabla.
+K22[21] from nibble 11 of nabla.
+K22[24] from nibble 11 of nabla.
+K22[ 6] from nibble  6 of delta.
+K22[ 9] from nibble  6 of delta.
+K22[22] from nibble  6 of delta.
+K22[30] from nibble  6 of delta.
+}
+K[23] = {
+K23[ 2] from nibble 11 of nabla.
+K23[18] from nibble 11 of nabla.
+K23[21] from nibble 11 of nabla.
+K23[24] from nibble 11 of nabla.
+K23[29] from nibble 11 of nabla.
+K23[ 1] from nibble  6 of delta.
+}
+K[24] = {
+K24[ 5] from nibble 11 of nabla.
+K24[ 7] from nibble 11 of nabla.
+K24[23] from nibble 11 of nabla.
+K24[24] from nibble 11 of nabla.
+K24[26] from nibble 11 of nabla.
+K24[29] from nibble 11 of nabla.
+K24[31] from nibble 11 of nabla.
+K24[ 6] from nibble  6 of delta.
+K24[14] from nibble  6 of delta.
+}
+K[25] = {
+K25[ 0] from nibble 11 of nabla.
+K25[ 4] from nibble 11 of nabla.
+K25[ 5] from nibble 11 of nabla.
+K25[20] from nibble 11 of nabla.
+K25[23] from nibble 11 of nabla.
+K25[26] from nibble 11 of nabla.
+K25[31] from nibble 11 of nabla.
+K25[ 6] from nibble  6 of delta.
+}
+K[31] = {
+K31[ 1] from nibble 11 of nabla.
+K31[ 2] from nibble 11 of nabla.
+K31[ 3] from nibble 11 of nabla.
+K31[ 4] from nibble 11 of nabla.
+K31[ 7] from nibble 11 of nabla.
+K31[ 9] from nibble 11 of nabla.
+K31[14] from nibble 11 of nabla.
+K31[15] from nibble 11 of nabla.
+K31[16] from nibble 11 of nabla.
+K31[18] from nibble 11 of nabla.
+K31[19] from nibble 11 of nabla.
+K31[24] from nibble 11 of nabla.
+K31[25] from nibble 11 of nabla.
+K31[31] from nibble 11 of nabla.
+K31[ 6] from nibble  6 of delta.
+}
+#Active Sboxes Forward = 745
+#Active Sboxes Forward Key = 231
+#Active Sboxes Backward = 58
+#Active Sboxes Backward Key = 16
+#Active Sboxes = 1050/2080 = 50.480769230769226% of the whole cipher, which is
+(2^{8}*0.5048076923076923 = 129.23076923076923 = 2^{7.01380579952503})
+C_attack = 2^{k-2d}*(C_biclique + C_precomp + C_recomp + C_falpos)
+C_attack = 2^{248}*(((2^{4}+2^{4})*(5/96)) + (2^{4}*(75/96) + 2^{4}*(16/96)) + 2^{7.01380579952503} + 2^{8-4})
+C_attack = 2^{248}*(2^{0.736965594166206} + 2^{3.922832139477540} + 2^{7.01380579952503} + 2^4)
+C_attack = 2^{255.34042075695342}
+C_attack ~ 2^{255,34}
