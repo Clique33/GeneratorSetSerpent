@@ -6,6 +6,6 @@ The Java specifications are:
   Java(TM) SE Runtime Environment (build 1.8.0_261-b12)
   Java HotSpot(TM) 64-Bit Server VM (build 25.261-b12, mixed mode)
 
-To run the program use command:
+To run the program use command from folder where the files were extracted:
 
-  java -jar "~\SerpentAttack\dist\SerpentAttacks.jar"
+  java -jar ".\dist\SerpentAttacks.jar"
